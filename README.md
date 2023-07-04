@@ -25,10 +25,10 @@ python main.py
 
 Após a execução, você verá os registros gerados sendo exibidos no terminal.
 
-##Configurações Personalizadas
+## Configurações Personalizadas
 Para alterar o número de registros gerados, abra o arquivo main.py e modifique a variável numero_registros com o valor desejado.
 
 Você também pode personalizar outras características dos registros, como faixas de valores e opções de modalidade. Para isso, você pode modificar as funções correspondentes no arquivo gerar_registros.py.
 
-##Contribuição
+## Contribuição
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
