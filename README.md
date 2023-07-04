@@ -8,6 +8,7 @@ Certifique-se de ter o Python 3 instalado em seu sistema. Você pode verificar a
 
 ```shell
 python --version
+```
 
 ## Como Executar
 
@@ -15,9 +16,11 @@ python --version
 2 - Navegue até o diretório do projeto.
 ```shell
 cd gerador-de-registros
+```
 
 Agora você pode executar o código do projeto com o seguinte comando:
 ```shell
 python main.py
+```
 
 Após a execução, você verá os registros gerados sendo exibidos no terminal.
